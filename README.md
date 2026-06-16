@@ -1,2 +1,12 @@
 # Cafeteria-Management-and-Ordering-System
-A C-based Cafeteria Management and Ordering System that manages menu items, customer orders, undo operation and billing efficiently.
+This project is developed in C to manage cafeteria operations such as menu management, order placement, billing, and undo operations.
+Features
+Add Menu Items
+Place Orders
+Generate Bills
+Undo Operations
+Files Included
+cafeteria.c
+report.pdf
+final ppt.pptx
+Project screenshots
