@@ -5,8 +5,8 @@ This project is developed in C to manage cafeteria operations such as menu manag
 - Place Orders
 - Generate Bills
 - Undo Operations
-# Files Included
-- cafeteria.c
-- report.pdf
-- final ppt.pptx
-- Project screenshots
+# Technology Used
+- C Programming Language
+- Arrays
+- Stack Data Structure
+- Queue Data Structure
